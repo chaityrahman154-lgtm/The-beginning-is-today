@@ -1,41 +1,40 @@
-# The Beginning Is Today 📓
+# 📓 The Beginning Is Today — CSE Fundamentals Notebooks
 
-A personal archive of Jupyter notebooks covering foundational and intermediate concepts in Computer Science, developed during coursework at BRAC University. This repository marks the starting point of a hands-on programming journey — where theory meets code.
+A personal archive of Jupyter notebooks written during the early semesters of a Computer Science & Engineering degree at BRAC University. This repository exists to document the foundation — the moment before things got specialized — when the goal was simply to understand how computers think.
 
-## Overview
+## ✨ Project Overview
 
-This collection spans multiple university courses and reflects early exploration of programming logic, data structures, and computational thinking, all practiced interactively through Google Colab.
+Every ML engineer has a beginning. This is mine.
 
-## Notebooks
+These notebooks cover core CS concepts from the first two years of the BRAC University CSE program, worked through interactively in Google Colab. They represent the programming instincts built before machine learning, computer graphics, and database systems — the ground everything else stands on.
 
-| Notebook | Course | Topics Covered |
-|----------|--------|----------------|
-| `CSE110.ipynb` | Intro to CS | Basic Python syntax, variables, control flow, functions |
-| `CSE111.ipynb` | Structured Programming | Loops, arrays, file handling, algorithmic thinking |
-| `CSE220.ipynb` | Data Structures | Lists, stacks, queues, trees, and their implementations |
+The real value of keeping these public: anyone can trace the learning arc from here to the more advanced projects in this profile — from basic Python loops to training neural networks and building full-stack applications.
 
-## Tech Stack
+## 📚 Notebooks
 
-- **Language:** Python 3
-- **Environment:** Google Colab / Jupyter Notebook
-- **Libraries:** Standard Python libraries, NumPy (where applicable)
+| Notebook | Course | What It Covers |
+|---|---|---|
+| `CSE110.ipynb` | Introduction to CS | Python fundamentals: variables, conditionals, loops, functions, basic I/O |
+| `CSE111.ipynb` | Structured Programming | Algorithms, recursion, arrays, file handling, problem decomposition |
+| `CSE220.ipynb` | Data Structures | Lists, stacks, queues, trees, searching and sorting — implemented from scratch |
 
-## How to Use
+## 🚀 How to Open
 
-You can open any notebook directly in Google Colab:
+Every notebook runs directly in Google Colab — no local setup needed:
 
-1. Click on the `.ipynb` file in this repository.
-2. Select **"Open in Colab"** from the top of the file view.
-3. Run cells interactively to follow along.
+1. Click any `.ipynb` file in this repository.
+2. Select **"Open in Colab"** at the top of the file preview.
+3. Run cells interactively.
 
 Or clone locally:
 ```bash
 git clone https://github.com/chaityrahman154-lgtm/The-beginning-is-today.git
+jupyter notebook
 ```
 
 ## About
 
-These notebooks were created as part of academic coursework and self-directed learning at BRAC University, Department of Computer Science & Engineering. They represent the foundational layer of an evolving journey in Machine Learning and AI.
+This is the starting line, not the finish. From here, the work expanded into computer graphics (PyOpenGL game simulations), database systems (a full university management portal), and machine learning (a multi-model software quality classifier). This repository stays public as an honest record of where it all started.
 
 ---
-*"The beginning is today."* — Every expert was once a beginner.
+*"The beginning is today."*
